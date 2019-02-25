@@ -12,6 +12,6 @@
 4. 기존 코드를 다음과 같이 수정함 <br>
 `if(Input.GetMouseButtonDown (0))` -> `if(Input.GetMouseButtonDown (0) || Input.touchCount > 0)`
 
-5. 폰에서 bird가 잘 날아가는 것을 확인함
+5. 폰에서 bird가 잘 날아가는 것을 [확인함](https://github.com/junsooo/unity-tutorial/blob/master/KakaoTalk_20190226_012940589.png)
 
 
